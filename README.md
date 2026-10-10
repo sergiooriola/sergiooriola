@@ -7,6 +7,12 @@ Telecommunication Engineer (BEng and MSc, Universidad Politécnica de Madrid), s
 in AI and machine learning. I work freelance on websites, integrations and automations
 for non-technical clients.
 
+## Currently building
+
+- **[citedesk](https://github.com/sergiooriola/citedesk)**: an open-source assistant
+  engine that answers only from approved entries, cites the entry behind every answer and
+  hands everything else to a person. Pre-alpha, built in the open from the first commit.
+
 ## Selected work
 
 - **[agentic-rag-assistant](https://github.com/sergiooriola/agentic-rag-assistant)**:
