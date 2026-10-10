@@ -17,7 +17,7 @@ for non-technical clients.
   my master's thesis. Benchmarks six variational quantum classifiers against six
   classical baselines under class imbalance: 2,880 reproducible runs and a statistical
   protocol fixed in advance.
-- **[AI tutor for UPM's Insignia project](https://github.com/STRAST-UPM/pie-insignia-agent)**:
+- **[AI tutor for UPM's Insignia project](https://github.com/sergiooriola/pie-insignia-agent)**:
   agent built with the OpenAI Agents SDK and RAG over the course documents. FastAPI
   backend, React and TypeScript frontend, Supabase for sign-in and chat logs.
 - **[Dragon American School](https://colegioamericanodragon.com)** (private repository):
